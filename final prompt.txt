@@ -1,0 +1,7 @@
+this is a cyberpunk world build in an artificial neural network. The cyber city is with perfect scenery, cinematic lighting, cloud, no humans, city, building, reflection, sky, outdoors, cloudy sky, cityscape, water, science fiction, skyscraper, bridge, road, rain, high contrast, warm colors, bright lights. A young, beautiful, japanese girl in the center of the picture has long hair,side ponytail,yellow eyes,dress,jewelry,necklace,white hair, ,ribbon,hair ribbon,white dress,blue ribbon,hair between eyes,bow,upper body,bare shoulders,hair bow,frills,short sleeves,bangs, is looking at viewer. She is holding the rtx4090 gaming gpu on one hand , the rtx6000ada gpu on the other hand. There is Lance of Longinus on the back of this girl. There is an artificial sun in the sky powered by nuculear reactor. Opposite to the sun there is a green, evil moon, which pictures the Nefarious sabotage activity carried out by sone cyber citizens. 
+
+EasyNegative
+
+There is an enormous artificial sun in the sky powered by nuculear reactor. Opposite to the sun there is a green evil moon
+
+(sun:1.5), shining, masterpiece, best quality, Highly detailed,  HDR,UHD,8K, Vivid Colors, Professional, hires, original, extremely detailed wallpaper, perfect lighting, (extremely detailed CG:1.2), ultra-fine painting, Painting, rays radiating, 
